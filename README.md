@@ -1,2 +1,2 @@
 # weeklytop
-Weekly top 15 Songs using Basic Web Scraping via Python
+Weekly top 15 Songs from Saavn using Basic Web Scraping tool(beautifulsoup) via Python
